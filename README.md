@@ -157,14 +157,7 @@
                 </div>
                 <div class="about-image" data-animate>
                     <div class="image-frame">
-                        <div class="image-placeholder">
-                            <svg viewBox="0 0 200 200" fill="none">
-                                <circle cx="100" cy="100" r="80" stroke="currentColor" stroke-width="2" />
-                                <path d="M100 60 L100 100 L130 130" stroke="currentColor" stroke-width="3"
-                                    stroke-linecap="round" />
-                                <circle cx="100" cy="100" r="5" fill="currentColor" />
-                            </svg>
-                        </div>
+                        <img src="profile.jpg" alt="Eduardo - Desarrollador Full Stack" style="width: 100%; height: 100%; object-fit: cover; border-radius: 20px;">
                     </div>
                 </div>
             </div>
